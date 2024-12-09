@@ -1,0 +1,6 @@
+alert("Hi motor boy :)")
+alert("Đây là reminder bạn có reservation cho 1 special dinner")
+alert("5:00 chiều ngày 13/12/2024")
+alert("Gặp nhau ở 370 Điện Biên Phủ F.11 Q.10")
+alert("Dress cute cuz we are celebrating You")
+alert("See you then 🤗")
